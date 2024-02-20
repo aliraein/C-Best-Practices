@@ -1,4 +1,4 @@
-#include <myproject/sample_library.hpp>
+#include <C_Best_Practices/sample_library.hpp>
 
 int factorial(int input) noexcept
 {

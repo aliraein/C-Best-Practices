@@ -1,4 +1,4 @@
-macro(myproject_configure_linker project_name)
+macro(C_Best_Practices_configure_linker project_name)
   include(CheckCXXCompilerFlag)
 
   set(USER_LINKER_OPTION
